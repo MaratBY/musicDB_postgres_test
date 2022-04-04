@@ -2,7 +2,7 @@
 #### Creating test music database using PostgreSQL.
 
 The DB schema is following:
-![Drag Racing](db_schemas/db_schema.png)
+![SQL_SCHEMA_IMG](db_schemas/db_schema.png)
 
 
 SQL script for tables creation is located under
